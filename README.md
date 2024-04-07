@@ -1,4 +1,4 @@
-# DxChange SDK
+# LuchowSwap SDK
 
 Forked from the [PancakeSwap SDK](https://github.com/pancakeswap/pancake-swap-sdk/commit/762acf823a5870033b3d58a2724e8078f272a1a0).
 
